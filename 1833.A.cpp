@@ -19,3 +19,4 @@ int main()
 	}
 	return 0;
 }
+(implementation,strings,800)
