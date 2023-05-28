@@ -9,7 +9,7 @@ int main()
 	}
 	sort(a+1,a+5);
 	if(a[1]+a[2]>a[3]||a[2]+a[3]>a[4])printf("TRIANGLE\n");
-	else if(a[1]+a[2]==a[3]||a[2]+a[3]==a[4]) printf("SEGMENT\n");
+	else  if(a[1]+a[2]==a[3]||a[2]+a[3]==a[4]) printf("SEGMENT\n");
 	else printf("IMPOSSIBLE\n");
 	return 0;
 }
