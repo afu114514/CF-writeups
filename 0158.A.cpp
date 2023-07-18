@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 int n,k,a[105],ans;
-
 int main()
 {
 //	freopen("data.in","r",stdin);
